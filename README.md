@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&text=주니어개발자%20이민구입니다&fontAlign=70)
+![waving](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&text=주니어개발자%20이민구입니다)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=happyalsrn)](https://solved.ac/happyalsrn/)
 

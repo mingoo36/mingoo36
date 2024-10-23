@@ -1,5 +1,5 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=200&section=header&text=Mingoo%20Github!&&fontColor=FFFFFF&fontSize=80" />	
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=BFB5D7&height=200&section=header&text=Mingoo%20Github!&&fontColor=FFFFFF&fontSize=80" />	
 </div>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=happyalsrn)](https://solved.ac/happyalsrn/)
@@ -31,7 +31,7 @@
 - SQLD (2024.06.21)
 
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=200&section=footer" />
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=BFB5D78&height=200&section=footer" />
 </div>
 
 

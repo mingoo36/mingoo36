@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=happyalsrn@naver.com)](https://solved.ac/happyalsrn@naver.com/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=happyalsrn)](https://solved.ac/happyalsrn/)
 
 
 <!--

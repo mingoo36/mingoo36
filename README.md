@@ -1,8 +1,10 @@
-## 주니어 개발자 이민구입니다 👋
+## 주니어 개발자 이민구입니다 👋
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=happyalsrn)](https://solved.ac/happyalsrn/)
 
 
+### Skills
+---
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![vue.js](https://img.shields.io/badge/vuedotjs-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white)

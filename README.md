@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=happyalsrn@naver.com)](https://solved.ac/happyalsrn@naver.com/)
+
+
 <!--
 **mingoo36/mingoo36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

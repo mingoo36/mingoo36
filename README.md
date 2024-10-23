@@ -1,4 +1,4 @@
-![soft](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=25&desc=seulzzang's%20GitHub&descAlign=70.&descAlignY=44)
+![waving](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&text=주니어개발자%20이민구입니다&fontAlign=70&rotate=13&fontAlignY=25&desc=seulzzang's%20GitHub&descAlign=70.&descAlignY=44)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=happyalsrn)](https://solved.ac/happyalsrn/)
 

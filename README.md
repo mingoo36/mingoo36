@@ -1,7 +1,5 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Mingoo%20Github!&fontSize=90" />	
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
-
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=200&section=header&text=Mingoo%20Github!&fontSize=90" />	
 </div>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=happyalsrn)](https://solved.ac/happyalsrn/)
@@ -32,6 +30,9 @@
 - 정보처리기사 (2024.06.19)
 - SQLD (2024.06.21)
 
+<div align=center>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=200&section=footer" />
+</div>
 
 
 <!-- ![로고명](https://img.shields.io/badge/로고명-원하는색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상) -->

@@ -1,11 +1,11 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=200&section=header&text=Mingoo%20Github!&fontSize=90" />	
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=200&section=header&text=Mingoo%20Github!&fontSize=80"&fontColor=white" />	
 </div>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=happyalsrn)](https://solved.ac/happyalsrn/)
 
 
-# 💪Skills
+# 💪 Skills
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
@@ -26,7 +26,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
 
-# 🪪Certificate 
+# 🪪 Certificate 
 - 정보처리기사 (2024.06.19)
 - SQLD (2024.06.21)
 

@@ -31,7 +31,7 @@
 - SQLD (2024.06.21)
 
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=BFB5D78&height=200&section=footer" />
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=BFB5D7&height=200&section=footer" />
 </div>
 
 

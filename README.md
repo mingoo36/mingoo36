@@ -26,6 +26,7 @@
 # 🪪 Certificate 
 - 정보처리기사 (2024.06.19)
 - SQLD (2024.06.21)
+- TOEIC Speaking IH (2025.08.14)
 
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=BFB5D7&height=200&section=footer" />
